@@ -1,4 +1,4 @@
-<img src="imgs/wisddom.svg"  alt="logo" width=200 />
+<img src="imgs/wisdom.svg"  alt="logo" width=200 />
 
 # 科学育儿 正确做人 <small>1.0</small>
 
